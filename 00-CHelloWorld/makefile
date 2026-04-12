@@ -1,2 +1,2 @@
 holaFinal: hello.c
-	gcc hello.c -o hola3 && ./hola3
+	gcc hello.c -o hola && ./hola > output.txt
